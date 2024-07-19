@@ -10,7 +10,7 @@ Główne pliki: prepare_dataset.ipynb, training_models.ipynb
 #activate conda environment
 * conda activate yourenvname
 
-#install pycaret
+#install requirements
 * pip install -r requirements.txt
 
 ## Dane
