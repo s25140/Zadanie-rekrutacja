@@ -2,6 +2,7 @@
 
 Przeprowadzono analizę i wytrenowano model predykcyjny LGBM w Python za pomocą PyCaret
 
+Główne pliki: prepare_dataset.ipynb, training_models.ipynb
 ## Użycie
 #create a conda environment
 * conda create --name yourenvname python=3.8
